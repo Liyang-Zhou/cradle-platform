@@ -35,7 +35,7 @@ the previously mentioned admin user is added along with a few additional users:
 | admin123@admin.com | admin123 | ADMIN - Administrator        |
 | hcw@hcw.com        | hcw123   | HCW   - Healthcare Worker    |
 | cho@cho.com        | cho123   | CHO   - Chief Health Officer |
-| vht@vht.com        | vht123   | VHT   - Village Health Team  |
+| vht@vht.com        | demovht123   | VHT   - Village Health Team  |
 
 ## Contributors
 
